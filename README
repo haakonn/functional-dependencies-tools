@@ -1,0 +1,4 @@
+Just a small collection of methods for experimenting with some operations on
+functional dependencies. Load the file into the scala REPL (:load filename).
+
+Does not depend on anything beyond the Scala standard library.
